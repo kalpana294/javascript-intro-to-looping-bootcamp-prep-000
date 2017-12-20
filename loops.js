@@ -25,7 +25,7 @@ function mayBeTrue(){
 
 function doWhileLoop(array){
   do{
-    array.splice(1,1)
+    array.splice(array.length,1)
   }
   while(array.length > 0 && mayBeTrue());
   return array.length
