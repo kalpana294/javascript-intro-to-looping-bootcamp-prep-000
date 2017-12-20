@@ -19,7 +19,9 @@ function whileLoop(n){
   return "done"
 }
 
-function mayBeTrue()
+function mayBeTrue(){
+  return Math.random()>=1
+}
 
 function doWhileLoop(array){
   
