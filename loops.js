@@ -19,6 +19,9 @@ function whileLoop(n){
   return "done"
 }
 
+function mayBeTrue()
+
 function doWhileLoop(array){
+  
   
 }
