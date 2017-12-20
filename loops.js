@@ -25,7 +25,7 @@ function mayBeTrue(){
 
 function doWhileLoop(array){
   do{
-    array.delete
+    array.
   }
   
 }
